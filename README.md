@@ -3,18 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaizers08&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Kaizers08&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaizers08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaizers08.Kaizers08&"  />
+  <img height="200" src="https://gifdb.com/images/high/matrix-code-purple-hacking-glitch-7bx7559lth2twmnk.gif"  />
 </div>
 
 ###
@@ -70,7 +59,17 @@
 ###
 <br>
 <div align="center">
-  <img height="200" src="https://gifdb.com/images/high/matrix-code-purple-hacking-glitch-7bx7559lth2twmnk.gif"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaizers08.Kaizers08&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaizers08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaizers08&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Kaizers08&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
