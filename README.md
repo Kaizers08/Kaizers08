@@ -14,6 +14,8 @@
 
 ###
 
+<h2>Contact Info</h2>
+
 <div align="left">
   <a href="https://kaizers08.github.io/Angular_Portfolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=1abc9c&logoColor=white&labelColor=&style=flat" height="80" alt="portfolio logo"  />
@@ -38,6 +40,7 @@
 
 
 ###
+<h2>Skills</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
