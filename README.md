@@ -42,7 +42,6 @@
 
 ###
 
-<br>
 <h2>Skills</h2>
 
 <div align="left">
