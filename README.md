@@ -2,15 +2,29 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdzZ24yb2tjOGczNTh3dDdmaXJmOGMyeGxqanB6NmpkMmNkZWV3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+
+###
+
 <div align="center">
   <img height="200" src="https://gifdb.com/images/high/matrix-code-purple-hacking-glitch-7bx7559lth2twmnk.gif"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="left" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdzZ24yb2tjOGczNTh3dDdmaXJmOGMyeGxqanB6NmpkMmNkZWV3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+<div align="left">
+  <a href="https://discord.com/users/879009267317874699" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jaireell-son-regala-988744360/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jaireellson.regala@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
@@ -44,20 +58,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://discord.com/users/879009267317874699" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="36" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jaireell-son-regala-988744360/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="36" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jaireellson.regala@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="36" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-<br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaizers08.Kaizers08&"  />
 </div>
