@@ -14,6 +14,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaizers08.Kaizers08&"  />
+</div>
+
+###
+
 <h2>Contact Info</h2>
 
 <div align="left">
@@ -34,12 +40,9 @@
   </a>
 </div>
 
-
-
-</div>
-
-
 ###
+
+<br>
 <h2>Skills</h2>
 
 <div align="left">
@@ -70,14 +73,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaizers08.Kaizers08&"  />
-</div>
 
 ###
 
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaizers08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
   <br>
