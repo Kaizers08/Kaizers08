@@ -13,8 +13,7 @@
 <h2>Contact Info</h2>
 
 <div align="left">
-  <a href="https://kaizers08.github.io/Jaireell_Son_Portfolio/" target="_blank">
-  <a href="" target="_blank">
+  <a href="https://github.com/Kaizers08/Jaireell_Son_Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=1abc9c&logoColor=white&labelColor=&style=flat" height="80" alt="portfolio logo"  />
   </a>
 &nbsp;
